@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/algortihms/cmake-build-debug/CMakeFiles/algortihms.dir
+C:/Users/igorc/OneDrive/Documentos/C++/algortihms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/algortihms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

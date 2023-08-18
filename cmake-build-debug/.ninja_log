@@ -1,0 +1,11 @@
+# ninja log v5
+28	531	7140093294601219	CMakeFiles/algortihms.dir/reverse_linked_list/reverse_linked_list.c.obj	36ae8b6080607e7e
+292	402	7140270200940405	algortihms.exe	9b9e015b302f5602
+1	147	7140270602074432	build.ninja	55913f2d2a53a925
+3	291	7140270199877665	CMakeFiles/algortihms.dir/factorial/main.cpp.obj	9974c88874367e6f
+36	754	7140093296811442	CMakeFiles/algortihms.dir/Binary_search/Binary_search.cpp.obj	7de7fc1c8b1a80e
+1	147	7140270602074432	build.ninja	55913f2d2a53a925
+3	459	7140270607202693	CMakeFiles/algortihms.dir/Binary_search/Binary_search.cpp.obj	7de7fc1c8b1a80e
+460	580	7140270608378170	algortihms.exe	c5f759958796edc7
+3	304	7140270877598891	CMakeFiles/algortihms.dir/Binary_search/Binary_search.cpp.obj	7de7fc1c8b1a80e
+304	439	7140270878924713	algortihms.exe	c5f759958796edc7
